@@ -1,91 +1,108 @@
+<!-- Animated Typing Header -->
 <p align="center">
-<a href="https://github.com/nyx73">
-<img src="https://raw.githubusercontent.com/ABS-uno/ABS-uno/master/Assets/Hi.gif" width="50px">
-</a>
-<a href="https://komarev.com/ghpvc/?username=nyx73&style=for-the-badge&color=blue">
-<img src="https://komarev.com/ghpvc/?username=nyx73&style=for-the-badge&color=blue" alt="Profile views" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey+I'm+Rhythm+Chavda+👋;Software+Developer+%7C+UI%2FUX+Designer+%7C+AI+Enthusiast;Turning+Ideas+into+Code+%F0%9F%92%BB;Welcome+to+my+GitHub+Universe!+🚀" alt="Typing Header" />
 </p>
 
-<div align="center">
-<h1 style="font-size: 3rem; background: linear-gradient(to right, #61DAFB, #ff5e5e, #f0e68c); -webkit-background-clip: text; color: transparent; display: inline-block; font-weight: 800;">
-Hey This is Rhythm Chavda
-</h1>
-<br/>
-<img src="https://img.shields.io/badge/Software%20Developer-blue?style=flat-square" alt="Software Developer">
-<img src="https://img.shields.io/badge/UI%2FUX%20Designer-purple?style=flat-square" alt="UI/UX Designer">
-<img src="https://img.shields.io/badge/AI%20Enthusiast-orange?style=flat-square" alt="AI Enthusiast">
-<img src="https://img.shields.io/badge/Web%20Technologies-green?style=flat-square" alt="Web Technologies">
-</div>
-
-<img src="https://media2.giphy.com/media/Q8Jk7Vj3n9T7W/giphy.gif" width="30px" /> About Me
-🤔 Exploring new technologies and developing software solutions and quick hacks.
-
-💼 Working for a great team at orpheusdark.
-
-🌱 Currently learning more about Web Technologies, Systems Design, and Artificial Intelligence.
-
-✍️ Pursuing Application Development and Graphics Design as hobbies and side hustles.
-
-<img src="https://media.giphy.com/media/M9gC19P2i8RkKxP4bW/giphy.gif" width="30px" /> Tech Stack
+<!-- Profile Badges -->
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />
+  <a href="https://github.com/nyx73">
+    <img src="https://raw.githubusercontent.com/ABS-uno/ABS-uno/master/Assets/Hi.gif" width="30px">
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=nyx73&style=for-the-badge&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=nyx73&style=for-the-badge&color=blue" alt="Profile views" />
+  </a>
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWa54SlrxnFknj/giphy.gif" width="30px"/> GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Rhythm's GitHub Stats" height="180em" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyx73&theme=buefy&hide_border=true" alt="Rhythm's GitHub Streak" height="180em" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="Rhythm's Top Languages" height="180em"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Web%20Technologies-green?style=flat-square">
 </p>
 
-<img src="https://raw.githubusercontent.com/ABS-uno/ABS-uno/master/Assets/heart.gif" width="30px"/> My Featured Projects
-I'm proud of the work I've done on these projects. They represent my passion for creating and solving problems.
+---
 
-<a href="https://github.com/nyx73/your-project-repo" target="_blank">
-<img src="https://via.placeholder.com/400x150/000000/FFFFFF?text=Project+1+Image" alt="Project 1" style="width:100%; border-radius:10px;">
-</a>
-<p align="center">
-[Project Name 1] <br/>
-A short description of your project. Add a quick summary of what it is and what technologies you used.
-</p>
-<br/>
-<a href="https://github.com/nyx73/your-second-project-repo" target="_blank">
-<img src="https://via.placeholder.com/400x150/000000/FFFFFF?text=Project+2+Image" alt="Project 2" style="width:100%; border-radius:10px;">
-</a>
-<p align="center">
-[Project Name 2] <br/>
-Another project description here. Showcasing your skills and problem-solving abilities.
-</p>
-<br/>
+## 👨‍💻 About Me
 
-<img src="https://media.giphy.com/media/3o7TKB3EoFhU2W7WzC/giphy.gif" width="30px"/> Connect with Me
+- 🌱 Currently exploring **Web Technologies**, **System Design**, and **AI Concepts**
+- 🔧 Actively building real-world solutions and side projects
+- 💼 Working with a great team at **orpheusdark**
+- 🎨 Passionate about **UI/UX Design** and **Creative Coding**
+- ✨ Always open to new ideas, learning, and collaboration
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-<a href="https://nyx73.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/Website-nyx73.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/rhytmchavda/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Rhythm%20Chavda-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:rhythmchavda147@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-rhythmchavda147@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyx73&theme=radical&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&theme=radical&hide_border=true&langs_count=10" height="180em" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/nyx73/your-project-repo" target="_blank">
+    <img src="https://via.placeholder.com/400x150/000000/FFFFFF?text=Project+1" alt="Project 1" style="border-radius: 10px;">
+  </a>
+  <br/><b>[Project Name 1]</b><br/>
+  A short description of your project. Add a quick summary of what it is and what technologies you used.
+</p>
+
 <br/>
 
 <p align="center">
-<i>"The best way to predict the future is to create it."</i>
+  <a href="https://github.com/nyx73/your-second-project-repo" target="_blank">
+    <img src="https://via.placeholder.com/400x150/000000/FFFFFF?text=Project+2" alt="Project 2" style="border-radius: 10px;">
+  </a>
+  <br/><b>[Project Name 2]</b><br/>
+  Another project description here. Showcasing your skills and problem-solving abilities.
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://nyx73.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-nyx73.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rhytmchavda/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rhythm%20Chavda-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rhythmchavda147@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-rhythmchavda147@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“The best way to predict the future is to create it.”</i><br/>
+  <img src="https://raw.githubusercontent.com/ABS-uno/ABS-uno/master/Assets/heart.gif" width="20px"/>
 </p>
