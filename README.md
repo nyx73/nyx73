@@ -1,7 +1,8 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey+I'm+Rhythm+Chavda+👋;Software+Developer+%7C+UI%2FUX+Designer+%7C+AI+Enthusiast;Turning+Ideas+into+Code+%F0%9F%92%BB;Welcome+to+my+GitHub+Universe!+🚀" alt="Typing Header" />
+  <img src="https://raw.githubusercontent.com/nyx73/nyx73/main/assets/rhythm-gradient-banner.svg" alt="Hey This is Rhythm Chavda" width="100%" />
 </p>
+
 
 <!-- Profile Badges -->
 <p align="center">
