@@ -56,15 +56,26 @@
 
 ---
 
+<h1 align="center">📚 Currently Learning</h1>
+<ul>
+  <li>🧠 AI-powered app development</li>
+  <li>💻 Advanced Android development with Jetpack</li>
+  <li>🔐 Security Best Practices in Web & App Dev</li>
+  <li>🌍 Building scalable APIs</li>
+</ul>
+
+
+---
 <h1 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>
   Analytics
 </h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=500&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Overall Stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=420&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Overall Stats" />
+</p>
 
 ---
 
