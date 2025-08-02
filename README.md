@@ -84,7 +84,7 @@
   <a href="https://www.linkedin.com/in/rhythmchavda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rhythm.chavda73@gmail.com">
+  <a href="mailto:rhythm.chavda147@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/nyx73">
