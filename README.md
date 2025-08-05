@@ -71,11 +71,6 @@
   Analytics
 </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=420&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Overall Stats" />
-</p>
 
 ---
 
