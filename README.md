@@ -98,32 +98,25 @@
 
 <h2 align="center">📊 GitHub Analytics & Stats</h2>
 
+
+
 ## 📊 GitHub Analytics & Stats
 
-<div align="center">
-  
-  <a href="https://github.com/nyx73">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="nyx73 GitHub Stats" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-  <a href="https://github.com/nyx73">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nyx73&theme=default" alt="nyx73 GitHub Streak" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyx73&theme=default" alt="GitHub Streak" />
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&theme=default&langs_count=10" alt="Top Languages" />
+</p>
 
-  <a href="https://github.com/nyx73">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&theme=default&langs_count=10" alt="nyx73 Top Languages" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=nyx73&theme=flat&margin-w=10&column=6" alt="nyx73 GitHub Trophies" />
-  </a>
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nyx73&theme=flat&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 
 ---
@@ -151,12 +144,7 @@
 
 ---
 
-<h1 align="center">🛤️ My Journey</h1>
-<ul>
-  <li>🚀 2022: Started learning development and design</li>
-  <li>💡 2023: Completed several full-stack projects including AI-based traffic signal and Expense Tracker MVP</li>
-  <li>🌐 2024: Exploring web3, building personal automation tools, and contributing to open source</li>
-</ul>
+
 
 ---
 
