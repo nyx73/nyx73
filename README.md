@@ -37,22 +37,43 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
-<h1 align="center">📜 Badges & Certifications</h1>
+---
+
+<h1 align="center">🎓 Badges & Certifications</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20Certified-blue?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Specialist-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Smart%20Traffic%20Signal%20Project-AI-green?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expense%20Tracker%20MVP-FinTech-orange?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS%20Decathon-2nd%20Prize%20Winner-blueviolet?style=for-the-badge" alt="DBMS Decathon" />
+  <img src="https://img.shields.io/badge/Operating%20System%20Basics-Course%20Completed-ff69b4?style=for-the-badge" alt="OS Basics Badge" />
+  <img src="https://img.shields.io/badge/Python-Course%20Completed-yellow?style=for-the-badge&logo=python&logoColor=black" alt="Python Certification" />
+  <img src="https://img.shields.io/badge/TechTriad-Top%203%20Participant-brightgreen?style=for-the-badge" alt="TechTriad Certificate" />
+  <img src="https://img.shields.io/badge/Code%20Fusion%20by%20Unstop-Participation-blue?style=for-the-badge" alt="Unstop Certificate" />
 </p>
+
+
+
 
 ---
 
@@ -62,6 +83,10 @@
   <li>💻 Advanced Android development with Jetpack</li>
   <li>🔐 Security Best Practices in Web & App Dev</li>
   <li>🌍 Building scalable APIs</li>
+  <li>🔐 Backend Architecture & API Design</li>
+  <li>⚙️ AI & Automation Workflows for productivity tools</li>
+  <li>💻 System Design Concepts for scalable applications</li>
+  
 </ul>
 
 
@@ -71,6 +96,20 @@
   Analytics
 </h1>
 
+<h1 align="center">📊 GitHub Analytics & Stats</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Rhythm's GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nyx73&theme=default&hide_border=false" alt="GitHub Streak" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&theme=default&langs_count=10" alt="Top Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nyx73&theme=flat&row=1&column=6" alt="Trophies" />
+</p>
 
 ---
 
