@@ -96,20 +96,35 @@
   Analytics
 </h1>
 
-<h1 align="center">📊 GitHub Analytics & Stats</h1>
+<h2 align="center">📊 GitHub Analytics & Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Rhythm's GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nyx73&theme=default&hide_border=false" alt="GitHub Streak" height="180em" />
-</p>
+## 📊 GitHub Analytics & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&theme=default&langs_count=10" alt="Top Languages" height="180em"/>
-</p>
+<div align="center">
+  
+  <a href="https://github.com/nyx73">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="nyx73 GitHub Stats" />
+  </a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nyx73&theme=flat&row=1&column=6" alt="Trophies" />
-</p>
+  <a href="https://github.com/nyx73">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nyx73&theme=default" alt="nyx73 GitHub Streak" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/nyx73">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&theme=default&langs_count=10" alt="nyx73 Top Languages" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=nyx73&theme=flat&margin-w=10&column=6" alt="nyx73 GitHub Trophies" />
+  </a>
+
+</div>
+
+
 
 ---
 
