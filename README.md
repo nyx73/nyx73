@@ -43,9 +43,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
@@ -68,7 +65,7 @@
   <img src="https://img.shields.io/badge/DBMS%20Decathon-2nd%20Prize%20Winner-blueviolet?style=for-the-badge" alt="DBMS Decathon" />
   <img src="https://img.shields.io/badge/Operating%20System%20Basics-Course%20Completed-ff69b4?style=for-the-badge" alt="OS Basics Badge" />
   <img src="https://img.shields.io/badge/Python-Course%20Completed-yellow?style=for-the-badge&logo=python&logoColor=black" alt="Python Certification" />
-  <img src="https://img.shields.io/badge/TechTriad-Top%203%20Participant-brightgreen?style=for-the-badge" alt="TechTriad Certificate" />
+  <img src="https://img.shields.io/badge/TechTriad-3%20rd%20Winner-brightgreen?style=for-the-badge" alt="TechTriad Certificate" />
   <img src="https://img.shields.io/badge/Code%20Fusion%20by%20Unstop-Participation-blue?style=for-the-badge" alt="Unstop Certificate" />
 </p>
 
