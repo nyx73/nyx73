@@ -86,36 +86,6 @@
   
 </ul>
 
-
----
-<h1 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>
-  Analytics
-</h1>
-
-<h2 align="center">📊 GitHub Analytics & Stats</h2>
-
-
-
-## 📊 GitHub Analytics & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyx73&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyx73&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx73&layout=compact&theme=default&langs_count=10" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nyx73&theme=flat&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-
 ---
 
 <h1 align="center">🌐 Connect With Me</h1>
